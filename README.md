@@ -65,7 +65,7 @@ Help desk tasks included:
 
 ## Validation
 
-Screenshots in the `/screenshots` directory demonstrate:
+Screenshots in the `screenshots` directory demonstrate:
 
 * Azure infrastructure configuration
 * Domain controller promotion
